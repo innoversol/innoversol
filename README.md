@@ -1,7 +1,3 @@
-# 💫 About Me:
-
-At INNOVERSOL, we specialize in crafting digital solutions tailored to your needs. From websites to mobile apps, SEO, and graphic design, we're here to make your digital dreams a reality!
-
 ## ⚙️ What We Do
 
 - **🌐 Website Development:**
@@ -9,12 +5,6 @@ At INNOVERSOL, we specialize in crafting digital solutions tailored to your need
 - **📱 Mobile Application Development:**
 - **🔍 SEO Strategies:**
 - **🎨 Graphics Designing:**
-
-## 🌟 Why Choose Us
-
-- **Expertise**
-- **Collaboration**
-- **Customer Satisfaction**
 
 ## 🌐 OUR WEBSITE:
 
