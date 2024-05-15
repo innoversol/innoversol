@@ -2,8 +2,8 @@
 
 - **🌐 Website Development:**
 - **🖥️ Web Application Development:**
-- **📱 Mobile Application Development:**
-- **🔍 SEO Strategies:**
+- **📱  Mobile Application Development:**
+- **🔍 SEO Optimization:**
 - **🎨 Graphics Designing:**
 
 ## 🌐 OUR WEBSITE:
